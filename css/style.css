@@ -7,3 +7,81 @@
     background: #38853B;
     color: #FFF;
 }
+
+.get-demo button{
+    margin: 32px 0;
+    padding: 14px 32px;
+}
+
+.big-number h4{
+    margin: 0;
+}
+
+.achievements .container-fluid h4{
+    font-weight: 700;
+    font-size: 28px;
+    color: #4D4D4D;
+}
+
+.achievements .container-fluid p{
+    color: #717171;
+    font-weight: 400;
+    font-size: 16px;
+}
+
+.achievements span, h4{
+    font-weight: 600;
+    font-size: 36px;
+}
+
+.achievements span{
+    color: #4CAF4F;
+}
+
+.customers a{
+    color: #4CAF4F;
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 20px;
+}
+
+.customers h5{
+    color: #4CAF4F;
+}
+
+.customers .link{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.marketing a{
+    color: #4CAF4F;
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 20px;
+}
+
+.marketing .row p{
+    font-weight: 600;
+    font-size: 20px;
+    color: #717171;
+}
+
+.card-body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin: 0 25px;
+    width: 317px;
+    height: 176px;
+    border-radius: 8px;
+    transform: translateY(-55%);
+    background: #F5F7FA;
+}
+
+.get-demo h3{
+    font-weight: 600;
+    font-size: 64px;
+}
