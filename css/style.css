@@ -8,6 +8,10 @@
     color: #FFF;
 }
 
+.achievements, .customers, .get-demo{
+    background-color: #F5F7FA;
+}
+
 .get-demo button{
     margin: 32px 0;
     padding: 14px 32px;
@@ -84,4 +88,44 @@
 .get-demo h3{
     font-weight: 600;
     font-size: 64px;
+}
+
+footer{
+    background-color: #263238;
+    padding: 64px 0;
+}
+
+footer h5{
+    font-weight: 600;
+    font-size: 20px;
+    color: #FFF;
+}
+
+footer a, footer p{
+    text-decoration: none;
+    color: #F5F7FA;
+    font-size: 14px;
+    font-weight: 400;
+}
+
+footer button{
+    background-color: transparent;
+    border: none;
+}
+
+footer input{
+    background-color: #515B60;
+    border: none;
+    border-radius: 8px;
+    width: 255px;
+    height: 40px;
+    padding: 0 0 0 12px;
+}
+
+footer input:focus{
+    outline: none;
+}
+
+footer button{
+    transform: translateX(-100%);
 }
